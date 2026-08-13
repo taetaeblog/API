@@ -1,4 +1,4 @@
 version=1.1
-url=https://github.com/taetaeblog/API/releases/download/1.4/default.exe
+url=https://github.com/taetaeblog/API/releases/download/1.1/blog.exe
 notes=변경 테스트 중
 sha256=e3c5721901ce386f92537de5de057d35b605acd57f6444c7e5d4d933d2c44027
