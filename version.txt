@@ -1,4 +1,4 @@
 version=1.4
-url=https://github.com/taetaeblog/API/releases/download/1.2/blog.exe
+url=https://github.com/taetaeblog/API/releases/download/1.4/default.exe
 notes=test
 sha256=3ea8bc2eb69b1268958165bc3fe004bb0cd5eb9950f904aa706e17a4a39b0d3e
